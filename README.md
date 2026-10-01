@@ -11,6 +11,7 @@ Kotlin, Java, Firebase, Android Studio
 
 ### 📄 Resume
 https://github.com/jeririnaldi/CV/blob/85948836487f2a2a89e4f2bd5a7c25f5580adf5e/CV%20JERI%20RINALDI.pdf
+https://github.com/jeririnaldi/CV/blob/393e46e23dd9faa5b3341b0a63aa34ccc26c8774/Portfolio_Jeririnaldi.pdf
 
 ### 📫 Kontak
 - Email: jeririnaldi001@gmail.com
